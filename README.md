@@ -3,7 +3,7 @@
 
 <h1 align="start">Hi 👋, I'm Yasser Esam</h1>
 
-<h3 align="start">I am a passionate Full Stack Developer with experience in Next.js, React, and PHP, and I'm currently learning Laravel. I graduated with a degree in Computer Science as a Software Engineer, which has provided me with a strong foundation in software development principles. I enjoy creating dynamic web applications and have a keen interest in crafting responsive designs with CSS and other technologies to deliver a great user experience. I’m not only eager to learn and grow my skills, but I am also looking for opportunities to work and apply my knowledge in real-world projects. I am excited to contribute to a team, collaborate on innovative ideas, and further develop my expertise. Let’s connect and explore how we can work together in this ever-evolving tech landscape!</h3>
+<h3 align="start">I’m a Full Stack Developer who builds responsive, user-focused web applications, combining strong frontend and backend skills to deliver optimized, scalable solutions.</h3>
 
 
 <img align="right" alt="Coding" width="full" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> 
