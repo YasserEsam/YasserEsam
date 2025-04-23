@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Laravel, Advanced React Patterns and TypeScript.**
 
-- 👯 I’m looking to collaborate on **Open Source React Project**
+- 👯 I’m looking to collaborate on **Open Source Next-JS Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasserEsam](https://github.com/YasserEsam)
 
