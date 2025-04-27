@@ -1,6 +1,3 @@
-
-![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
-
 <h1 align="start">Hi 👋, I'm Yasser Esam</h1>
 
 <h3 align="start">I’m a Full Stack Developer who builds responsive, user-focused web applications, combining strong frontend and backend skills to deliver optimized, scalable solutions.</h3>
@@ -24,8 +21,8 @@
 - 💬 Ask me about **frontend best practices**
 
 - 📫 How to reach me **yaaser10esam1010@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vJlir_l4Anb_lXtAK_9ABZEJ3p1mPxxW/view?usp=sharing](https://drive.google.com/file/d/1vJlir_l4Anb_lXtAK_9ABZEJ3p1mPxxW/view?usp=sharing)
+                                
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EGaIIsYV_5qNyQue-bwbmk-FQxi5_SFn/view?usp=drive_link](https://drive.google.com/file/d/1EGaIIsYV_5qNyQue-bwbmk-FQxi5_SFn/view?usp=drive_link)
 
 
 
